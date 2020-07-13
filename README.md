@@ -2,7 +2,7 @@
 
 A repository grouping all the HTML homeworks to be done by Ilyass and Mohammed Adam and tracking their progress!
 
-* [ ] first.html
+* [x] first.html
 
 ## Resources
 
